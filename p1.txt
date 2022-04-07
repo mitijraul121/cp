@@ -1,0 +1,25 @@
+mitij raul_45
+p1
+#include <stdio.h>
+
+
+int main()
+
+{
+    
+	printf("talk to a teacher\n");
+
+
+   	printf("welcome\n");
+
+
+	 return 0;
+
+}
+
+
+
+output 
+talk to a teacher
+welcome
+
